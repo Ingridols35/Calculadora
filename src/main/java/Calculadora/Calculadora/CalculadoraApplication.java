@@ -38,7 +38,6 @@ public class CalculadoraApplication {
 				 }
 
 
-
   if(operador.equals("/")){
 		var divisao = n1 / n2;
 			JOptionPane.showConfirmDialog(jframe, "Resultado: "+ divisao)     ;
